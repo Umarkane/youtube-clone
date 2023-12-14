@@ -13,7 +13,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
 export const logo =
-  "https://companieslogo.com/img/orig/ABBV.D-57954db1.png?t=1633222083";
+  "https://pbs.twimg.com/profile_images/1400241379004006406/HgiCMz9Q_400x400.jpg";
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
